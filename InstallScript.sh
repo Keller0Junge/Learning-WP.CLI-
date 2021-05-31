@@ -30,3 +30,4 @@ wp plugin install cookie-law-info --activate
 wp plugin instll matomo --activate
 wp plugin instll cachify --activate
 wp plugin instll crazy-lazy --activate
+Max war hier!
